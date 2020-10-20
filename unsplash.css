@@ -26,8 +26,8 @@ h1{text-shadow: 2px 2px white; color: rgba(228, 11, 156, 0.966);}
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #0590ec;
+  color: black;
 }
 div.gallery {
   margin: 5px;
